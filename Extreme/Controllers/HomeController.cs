@@ -17,7 +17,7 @@ namespace Extreme.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description .";
+            ViewData["Message"] = "Test Page.";
 
             return View();
         }
